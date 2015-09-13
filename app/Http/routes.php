@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('share.__layout');
+    return view('admin.__layout');
 });
