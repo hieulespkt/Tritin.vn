@@ -14,3 +14,4 @@
 Route::get('/', function () {
     return view('admin.__layout');
 });
+Route::get("/logo","admin\layout@change_logo");

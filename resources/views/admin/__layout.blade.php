@@ -8,12 +8,12 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>ThemeKit</title>
-
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <!-- Vendor CSS BUNDLE
       Includes styling for all of the 3rd party libraries used with this module, such as Bootstrap, Font Awesome and others.
       TIP: Using bundles will improve performance by reducing the number of network requests the client needs to make when loading the page. -->
     <link href="assets/css/vendor/all.css" rel="stylesheet">
-
+    @yield('styles')
     <!-- Vendor CSS Standalone Libraries
           NOTE: Some of these may have been customized (for example, Bootstrap).
           See: src/less/themes/{theme_name}/vendor/ directory -->
@@ -465,7 +465,7 @@
                         <li class="hasSubmenu">
                             <a href="#layout"><i class="md md-tab-unselected"></i> <span>Giao diện</span></a>
                             <ul id="layout">
-                                <li><a href="media-gallery.html"><i class="fa fa-paint-brush"></i> <span>logo</span></a></li>
+                                <li><a href="/logo"><i class="fa fa-paint-brush"></i> <span>logo</span></a></li>
                                 <li><a href="media-carousel.html"><i class="fa fa-circle-o"></i> <span>Carousels</span></a></li>
                             </ul>
                         </li>
@@ -637,7 +637,9 @@
 <!-- extra div for emulating position:fixed of the menu -->
 <div class="st-content-inner">
 
-<div class="container-fuild"></div>
+<div class="container-fluid">
+    @yield("mainbody")
+</div>
 
 </div>
 <!-- /st-content-inner -->
@@ -734,7 +736,7 @@
   Includes Custom Application JavaScript used for the current theme/module;
   Do not use it simultaneously with the standalone modules below. -->
 <script src="assets/js/app/app.js"></script>
-
+@yield('scripts')
 <!-- App Scripts Standalone Modules
   As a convenience, we provide the entire UI framework broke down in separate modules
   Some of the standalone modules may have not been used with the current theme/module

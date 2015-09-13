@@ -2,257 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ea0948-06d5-45e0-af97-d76c787174fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/Material-Design-Iconic-Font.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/Material-Design-Iconic-Font.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/Material-Design-Iconic-Font.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-arrows.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-arrows.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-arrows.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-clothing.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-clothing.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-clothing.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-emotions.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-emotions.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-emotions.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-food.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-food.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-food.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-general.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-general.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-general.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-household.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-household.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-household.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-medical-science.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-medical-science.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-medical-science.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-multimedia.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-multimedia.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-multimedia.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-nature.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-nature.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-nature.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-shopping-finance.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-shopping-finance.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-shopping-finance.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-sports.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-sports.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-sports.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-vehicle-navigation.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-vehicle-navigation.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-vehicle-navigation.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-weather.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-weather.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-weather.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/select2-spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/select2x2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/Material-Design-Iconic-Font.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin/__layout.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/abstract-canvas-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/abstract-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/abstract-shape-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/charts/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/flot/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/morris/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/media/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/tables/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/bootstrap-datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/bootstrap-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/bootstrap-slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/bootstrap-slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/bootstrap-switch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/breakpoints.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/chart-bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/chart-box.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/chart-bullet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/chart-discrete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/chart-line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/chart-pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/chart-tristate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/charts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/chat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/chat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/color-scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/colors-alerts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/colors-background.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/colors-buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/colors-calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/colors-progress-bars.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/colors-text.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/cover.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/data-series.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/tables/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/datepicker3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/daterangepicker-bs3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/daterangepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/defaults.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/data/google_maps/demo.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/draggable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/droppable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/charts/easy-pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/essentials.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/essentials.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/charts/flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/data/vector_maps/france-elections.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/holder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/addons/infobox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/addons/infobox_packed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/interact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/isotope.pkgd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/jquery-jvectormap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/jquery-jvectormap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/jquery-mousewheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/jquery.bootstrap-touchspin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/jquery.bootstrap-touchspin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/tables/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery.debouncedresize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/easy-pie/jquery.easypiechart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/tree/jquery.fancytree-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/flot/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/flot/jquery.flot.orderBars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/flot/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/flot/jquery.flot.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/flot/jquery.flot.stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery.grid-a-licious.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery.hotkeys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/jquery.minicolors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/jquery.minicolors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/nestable/jquery.nestable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery.nicescroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.microdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.microformat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.overlays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.rdfa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/jvectormap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/legend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/load_image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/map-object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/maps.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/maps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/marker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/google/jquery-ui-map/addons/markerclusterer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/data/google_maps/markers-edit.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/data/google_maps/markers.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/material-design-iconic-font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/morris.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/charts/morris.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/morris/morris.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/mouse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/navbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/numeric-scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/ordinal-scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/media/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/packery-mode.pkgd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-arrows.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-clothing.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-emotions.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-food.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-general.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-household.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-medical-science.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-multimedia.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-nature.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-shopping-finance.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-sports.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-vehicle-navigation.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fonts/picto-foundry-weather.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/picto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/position.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/proj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/railscasts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/rangemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/morris/raphael.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/region.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/resizable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/forms/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/selectable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/sidebar-skins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/sidebar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/sidebar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/simple-scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/simpledraw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/media/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/sortable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/charts/sparkline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/svg-canvas-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/svg-circle-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/svg-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/svg-group-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/svg-image-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/svg-path-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/svg-shape-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/svg-text-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/timeline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/app/timeline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/app/ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/vendor/ui.fancytree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/data/vector_maps/us-unemployment.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/vcanvas-base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/vcanvas-canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/charts/sparkline/vcanvas-vml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/vector-canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/vml-canvas-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/vml-circle-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/vml-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/vml-group-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/vml-path-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/maps/vector/vml-shape-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/vendor/core/jquery-ui/widget.js" />
-      <change type="DELETED" beforePath="C:\Users\Hieu\Desktop\TieuLuanChuenNganhs\project\Tritin.vn\app\Http\Controllers\Controller.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/img/loading-sm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/plugins/canvas-to-blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/plugins/canvas-to-blob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin/change_logo.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/css/fileinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/css/fileinput.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_LANG.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_cr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_cz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/input_image/js/fileinput_locale_zh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/__layout.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/__layout.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/layout.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/admin/layout.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -281,20 +66,40 @@
       <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
+            <state line="15" column="3" selection-start="462" selection-end="462" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="391">
+              <folding>
+                <element signature="e#7#392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/layout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="38" selection-start="274" selection-end="274" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__layout.blade.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="__layout.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/__layout.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="470" column="29" selection-start="25087" selection-end="25087" vertical-scroll-proportion="0.3709369" vertical-offset="4668" max-vertical-offset="9860">
+            <state line="640" column="17" selection-start="34692" selection-end="34697" vertical-scroll-proportion="-2.3137255" vertical-offset="7634" max-vertical-offset="9894">
               <folding>
                 <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="change_logo.blade.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/change_logo.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="52" selection-start="879" selection-end="879" vertical-scroll-proportion="0.39030612" vertical-offset="102" max-vertical-offset="527">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -318,9 +123,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/public/css/style.css" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/admin/layout.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/demo.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/__layout.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/admin/layout.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/change_logo.blade.php" />
       </list>
     </option>
   </component>
@@ -454,24 +261,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tritin.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tritin.vn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -557,6 +346,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hieu\Desktop\TieuLuanChuenNganhs\project\Tritin.vn\public\assets\input_image" />
       <recent name="C:\Users\Hieu\Desktop\TieuLuanChuenNganhs\project\Tritin.vn\public\assets" />
     </key>
   </component>
@@ -604,20 +394,25 @@
       <created>1442107538691</created>
       <updated>1442107538691</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="layout admin">
+      <created>1442113225230</created>
+      <updated>1442113225230</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24232082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25378788" sideWeight="0.670068" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25378788" sideWeight="0.75767916" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -626,7 +421,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -640,7 +434,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="change style.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="change style.css" />
+    <MESSAGE value="layout admin" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout admin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -649,7 +444,9 @@
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
+          <folding>
+            <element signature="e#7#392#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -674,13 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="257" selection-end="257" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/share/__layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="47" selection-start="0" selection-end="16342" vertical-scroll-proportion="0.051671732" vertical-offset="850" max-vertical-offset="6205">
@@ -690,18 +480,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
+        <state line="15" column="3" selection-start="462" selection-end="462" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="391">
+          <folding>
+            <element signature="e#7#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="38" selection-start="274" selection-end="274" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/__layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="470" column="29" selection-start="25087" selection-end="25087" vertical-scroll-proportion="0.3709369" vertical-offset="4668" max-vertical-offset="9860">
+        <state line="640" column="17" selection-start="34692" selection-end="34697" vertical-scroll-proportion="-2.3137255" vertical-offset="7634" max-vertical-offset="9894">
           <folding>
             <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/change_logo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="52" selection-start="879" selection-end="879" vertical-scroll-proportion="0.39030612" vertical-offset="102" max-vertical-offset="527">
+          <folding />
         </state>
       </provider>
     </entry>

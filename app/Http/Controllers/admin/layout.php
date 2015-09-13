@@ -7,10 +7,10 @@ namespace App\Http\Controllers\admin;
  * Time: 7:42 AM
  */
 use Illuminate\Routing\Controller;
-class layout extends Controller
+class Layout extends Controller
 {
     public function change_logo()
     {
-        return view('');
+        return view('admin.change_logo');
     }
 }
