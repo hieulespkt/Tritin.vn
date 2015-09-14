@@ -17,5 +17,5 @@ Route::get('/', function () {
 Route::get('/admin', function () {
     return view('admin.__layout');
 });
-Route::get("/logo","admin\layout@change_logo_l");
+
 Route::post("/logol","admin\layout@change_logo");
