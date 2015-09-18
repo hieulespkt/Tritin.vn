@@ -8,81 +8,20 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>ThemeKit</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <!-- Vendor CSS BUNDLE
-      Includes styling for all of the 3rd party libraries used with this module, such as Bootstrap, Font Awesome and others.
-      TIP: Using bundles will improve performance by reducing the number of network requests the client needs to make when loading the page. -->
-    <link href="assets/css/vendor/all.css" rel="stylesheet">
+    <link href="{{url('assets/css/vendor/all.css')}}" rel="stylesheet">
     @yield('styles')
-    <!-- Vendor CSS Standalone Libraries
-          NOTE: Some of these may have been customized (for example, Bootstrap).
-          See: src/less/themes/{theme_name}/vendor/ directory -->
-    <!-- <link href="css/vendor/bootstrap.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/font-awesome.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/picto.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/material-design-iconic-font.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/datepicker3.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/jquery.minicolors.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/bootstrap-slider.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/railscasts.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/jquery-jvectormap.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/owl.carousel.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/slick.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/morris.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/ui.fancytree.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/daterangepicker-bs3.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/jquery.bootstrap-touchspin.css" rel="stylesheet"> -->
-    <!-- <link href="css/vendor/select2.css" rel="stylesheet"> -->
+    
+    <link href="{{url('assets/css/app/app.css')}}" rel="stylesheet">
 
-    <!-- APP CSS BUNDLE [css/app/app.css]
-  INCLUDES:
-      - The APP CSS CORE styling required by the "admin" module, also available with main.css - see below;
-      - The APP CSS STANDALONE modules required by the "admin" module;
-  NOTE:
-      - This bundle may NOT include ALL of the available APP CSS STANDALONE modules;
-        It was optimised to load only what is actually used by the "admin" module;
-        Other APP CSS STANDALONE modules may be available in addition to what's included with this bundle.
-        See src/less/themes/admin/app.less
-  TIP:
-      - Using bundles will improve performance by greatly reducing the number of network requests the client needs to make when loading the page. -->
-    <link href="assets/css/app/app.css" rel="stylesheet">
-
-    <!-- App CSS CORE
-  This variant is to be used when loading the separate styling modules -->
-    <!-- <link href="css/app/main.css" rel="stylesheet"> -->
-
-    <!-- App CSS Standalone Modules
-      As a convenience, we provide the entire UI framework broke down in separate modules
-      Some of the standalone modules may have not been used with the current theme/module
-      but ALL modules are 100% compatible -->
-
-    <!-- <link href="css/app/essentials.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/layout.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/sidebar.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/sidebar-skins.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/navbar.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/media.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/player.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/timeline.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/cover.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/chat.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/charts.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/maps.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/colors-alerts.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/colors-background.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/colors-buttons.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/colors-calendar.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/colors-progress-bars.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/colors-text.css" rel="stylesheet" /> -->
-    <!-- <link href="css/app/ui.css" rel="stylesheet" /> -->
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
-  WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!-- If you don't need support for Internet Explorer <= 8 you can safely remove these -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 
 </head>
 
@@ -447,176 +386,7 @@
     </ul>
 </div>
 <div class="split-vertical-body">
-    <div class="split-vertical-cell">
-        <div class="tab-content">
-
-            <div class="tab-pane active" id="sidebar-tabs-menu">
-                <div data-scrollable>
-
-                    <ul class="sidebar-menu sm-icons-right sm-icons-block">
-                        <li class="active"><a href="index.html"><i class="fa fa-home"></i> <span>Trang chủ</span></a></li>
-                        <li><a href="email.html"><i class="fa fa-envelope"></i> <span>Email</span></a></li>
-
-                    </ul>
-
-                    <h4 class="category">Components</h4>
-                    <ul class="sidebar-menu sm-bordered sm-active-item-bg">
-
-                        <li class="hasSubmenu">
-                            <a href="#layout"><i class="md md-tab-unselected"></i> <span>Giao diện</span></a>
-                            <ul id="layout">
-                                <li><a href="/logo"><i class="fa fa-paint-brush"></i> <span>logo</span></a></li>
-                                <li><a href="media-carousel.html"><i class="fa fa-circle-o"></i> <span>Carousels</span></a></li>
-                            </ul>
-                        </li>
-                        <li class="hasSubmenu">
-                            <a href="#submenu-media"><i class="fa fa-photo"></i> <span>Media</span></a>
-                            <ul id="submenu-media">
-                                <li><a href="media-gallery.html"><i class="fa fa-paint-brush"></i> <span>logo</span></a></li>
-                                <li><a href="media-carousel.html"><i class="fa fa-circle-o"></i> <span>Carousels</span></a></li>
-                            </ul>
-                        </li>
-                        <li class="hasSubmenu">
-                            <a href="#nav-maps"><i class="fa fa-globe"></i> <span>Maps</span></a>
-                            <ul id="nav-maps">
-                                <li><a href="maps-google-themes.html"><i class="fa fa-eyedropper"></i> <span>Themes</span></a></li>
-                                <li><a href="maps-google-filters.html"><i class="fa fa-map-marker"></i> <span>Filters</span></a></li>
-                                <li><a href="maps-google-json.html"><i class="fa fa-map-marker"></i> <span>JSON</span></a></li>
-                                <li><a href="maps-google-pagination.html"><i class="fa fa-map-marker"></i> <span>Pagination</span></a></li>
-                                <li><a href="maps-google-edit.html"><i class="fa fa-pencil"></i> <span>Edit</span></a></li>
-                                <li><a href="maps-google-markers.html"><i class="fa fa-map-marker"></i> <span>Markers</span></a></li>
-                                <li><a href="maps-vector.html"><i class="fa fa-map-marker"></i> <span>Vector Maps</span></a></li>
-                            </ul>
-                        </li>
-                        <li class="hasSubmenu">
-                            <a href="#nav-charts"><i class="fa fa-bar-chart"></i> <span>Charts</span></a>
-                            <ul id="nav-charts">
-                                <li><a href="charts-morris.html"><i class="fa fa-bar-chart"></i> <span>Morris</span></a></li>
-                                <li><a href="charts-flot.html"><i class="fa fa-bar-chart"></i> <span>Flot</span></a></li>
-                            </ul>
-                        </li>
-                    </ul>
-
-                    <h4 class="category">Other</h4>
-                    <ul class="sidebar-menu sm-bordered sm-active-item-bg">
-                        <li><a href="tickets.html"><i class="fa fa-ticket"></i> <span>Tickets</span></a></li>
-                        <li><a href="appointments.html"><i class="fa fa-calendar"></i> <span>Appointments</span></a></li>
-                    </ul>
-
-                    <div class="sidebar-block equal-padding">
-                        <ul class="list-group list-group-menu">
-                            <li class="list-group-item"><a href="login.html"><i class="fa fa-fw fa-lock"></i> <span>Login</span></a></li>
-                            <li class="list-group-item"><a href="sign-up.html"><i class="fa fa-fw fa-pencil"></i> <span>Sign Up</span></a></li>
-                        </ul>
-                    </div>
-
-                    <h4 class="category">Versions</h4>
-                    <div class="sidebar-block text-center">
-                        <a class="btn btn-primary btn-block active" href="index.html">
-                            <strong>HTML</strong>
-                        </a>
-                        <a class="btn btn-primary btn-block" href="../admin-angular/index.html">
-                            <strong>AngularJS</strong>
-                        </a>
-                        <a class="btn btn-primary btn-block" href="../admin-rtl/index.html">
-                            <strong>RTL</strong>
-                        </a>
-                    </div>
-
-                </div>
-            </div>
-            <!-- // END .tab-pane -->
-
-            <div class="tab-pane" id="sidebar-tabs-2">
-                <div data-scrollable>
-
-                    <div class="category">Activity</div>
-                    <div class="sidebar-block">
-                        <div class="sidebar-feed">
-                            <ul>
-                                <li class="media news-item">
-                                    <span class="news-item-success pull-right "><i class="fa fa-circle"></i></span>
-                            <span class="pull-left media-object">
-                                                <i class="fa fa-fw fa-bell"></i>
-                                            </span>
-                                    <div class="media-body">
-                                        <a href="" class="text-white">Adrian</a> just logged in
-                                        <span class="time">2 min ago</span>
-                                    </div>
-                                </li>
-                                <li class="media news-item">
-                                    <span class="news-item-success pull-right "><i class="fa fa-circle"></i></span>
-                            <span class="pull-left media-object">
-                                                <i class="fa fa-fw fa-bell"></i>
-                                            </span>
-                                    <div class="media-body">
-                                        <a href="" class="text-white">Adrian</a> just added <a href="" class="text-white">mosaicpro</a> as their office
-                                        <span class="time">2 min ago</span>
-                                    </div>
-                                </li>
-                                <li class="media news-item">
-                            <span class="pull-left media-object">
-                                                <i class="fa fa-fw fa-bell"></i>
-                                            </span>
-                                    <div class="media-body">
-                                        <a href="" class="text-white">Adrian</a> just logged in
-                                        <span class="time">2 min ago</span>
-                                    </div>
-                                </li>
-                                <li class="media news-item">
-                            <span class="pull-left media-object">
-                                                <i class="fa fa-fw fa-bell"></i>
-                                            </span>
-                                    <div class="media-body">
-                                        <a href="" class="text-white">Adrian</a> just logged in
-                                        <span class="time">2 min ago</span>
-                                    </div>
-                                </li>
-                                <li class="media news-item">
-                            <span class="pull-left media-object">
-                                                <i class="fa fa-fw fa-bell"></i>
-                                            </span>
-                                    <div class="media-body">
-                                        <a href="" class="text-white">Adrian</a> just logged in
-                                        <span class="time">2 min ago</span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--End user-->
-
-                    <div class="sidebar-block equal-padding">
-                        <div class="btn-group btn-group-justified" data-toggle="buttons">
-                            <label class="btn btn-default active">
-                                <input type="radio" name="options" id="option1" autocomplete="off" checked> <i class="fa fa-envelope"></i>
-                            </label>
-                            <label class="btn btn-default">
-                                <input type="radio" name="options" id="option2" autocomplete="off"> <i class="fa fa-lock"></i>
-                            </label>
-                            <label class="btn btn-default">
-                                <input type="radio" name="options" id="option31" autocomplete="off"> <i class="fa fa-list"></i>
-                            </label>
-                            <label class="btn btn-default">
-                                <input type="radio" name="options" id="option32" autocomplete="off"> <i class="fa fa-group"></i>
-                            </label>
-                        </div>
-                    </div>
-
-                    <!-- Calendar -->
-                    <div class="category">Calendar</div>
-                    <div class="sidebar-block padding-none">
-                        <div class="datepicker"></div>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-        <!-- // END .tab-content -->
-
-    </div>
-    <!-- // END .split-vertical-cell -->
+  @include('admin.share.__menuDashboard')
 
 </div>
 <!-- // END .split-vertical-body -->
@@ -700,7 +470,7 @@
   The bundle was generated using modern frontend development tools that are provided with the package
   To learn more about the development process, please refer to the documentation.
   Do not use it simultaneously with the separate bundles above. -->
-<script src="assets/js/vendor/all.js"></script>
+<script src="{{url('assets/js/vendor/all.js')}}"></script>
 
 <!-- Vendor Scripts Standalone Libraries -->
 <!-- <script src="js/vendor/core/all.js"></script> -->
@@ -735,7 +505,7 @@
 <!-- App Scripts Bundle
   Includes Custom Application JavaScript used for the current theme/module;
   Do not use it simultaneously with the standalone modules below. -->
-<script src="assets/js/app/app.js"></script>
+<script src="{{url('assets/js/app/app.js')}}"></script>
 @yield('scripts')
 <!-- App Scripts Standalone Modules
   As a convenience, we provide the entire UI framework broke down in separate modules

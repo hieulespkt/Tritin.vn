@@ -14,8 +14,4 @@
 Route::get('/', function () {
     return view('share.__layout');
 });
-Route::get('/admin', function () {
-    return view('admin.__layout');
-});
-Route::post("/logo","admin\layout@change_logo_l");
-Route::post("/logol","admin\layout@change_logo");
+Route::controller('admin','admin\layout');

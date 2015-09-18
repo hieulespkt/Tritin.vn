@@ -8,25 +8,35 @@ namespace App\Http\Controllers\admin;
  */
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
+
 class Layout extends Controller
 {
     public function __contruct()
     {
 
     }
-    public function index()
+    public function getIndex()
     {
-        return view("admin.__layout");
+        return view("admin.share.__layout");
+        
     }
-    public function change_logo_l(Request $request)
+    public function getChangelogo()
     {
         return view("admin.change_logo");
     }
-    public function change_logo(Request $request)
+    public function postChangelogo(Request $request)
     {
 
-            $dulieu_tu_input = $request->all();
-            return $dulieu_tu_input;
-
+        $file = $request -> file('image');
+        $path = 'images/tritin.vn';
+        $filename =str_random(6).'_'.$file->getClientOriginalName();
+        $file -> move($path,$filename);
+        return $filename;
+        var_dump($request->file('image'));
+        
+    }
+    public function getChangemenu()
+    {
+        return view ("admin.change_menu");
     }
 }
