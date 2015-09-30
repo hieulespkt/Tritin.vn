@@ -55,5 +55,6 @@
 <!-- end of main_container -->
 <div align=center>This template  downloaded form <a href='#'>free website templates</a></div>
 </div>
+@yield("scripts")
 </body>
 </html>

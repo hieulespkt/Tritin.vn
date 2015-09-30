@@ -2,6 +2,10 @@
 @section('styles')
 	<link rel="stylesheet" type="text/css" href="{{url('css/user_css.css')}}">
 @stop
+@section('scripts')
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://cdn.jsdelivr.net/jquery.validation/1.14.0/jquery.validate.js"></script>
+@stop
 @Section('center')
 <div class="center-content-re col-md-8">
     <div class="center_content ">
