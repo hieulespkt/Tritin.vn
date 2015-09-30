@@ -64,3 +64,10 @@
 
         <li><a href="details.html" class="nav">Liên hệ</a></li>
     </ul>
+    <div class="user-login">
+        <ul class="ft-login">
+            <li><a href="{{url('user/signin')}}"><i class="fa fa-sign-in"></i><p>Đăng Nhập</p></a></li>
+            <li><a href="{{url('user/signin')}}"><i class="fa fa-user-plus"></i><p>Đăng Ký</p></a></li>
+        </ul>
+    </div>
+</div>

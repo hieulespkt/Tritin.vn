@@ -367,7 +367,6 @@
     </div>
 </div>
 
-
 <div class="chat-window-container"></div>
 
 <!-- sidebar effects OUTSIDE of st-pusher: -->

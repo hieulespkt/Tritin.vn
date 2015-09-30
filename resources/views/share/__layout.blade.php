@@ -3,15 +3,15 @@
 <head>
     <title>Tools Shop</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('css/style.css')}}" />
+    <link rel="stylesheet" type="text/css" href="{{url('css/font-awesome.css')}}" />
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/boxOver.js"></script>
+    <script type="text/javascript" src="{{url('js/boxOver.js')}}"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
@@ -20,12 +20,13 @@
             });
         });
     </script>
+    @yield("styles")
 </head>
 <body>
 <div class="pull-container width-100">
 <div id="main_container">
 <div id="header">
-    <img src="images/tritin.vn/logo.png">
+    <img src="{{url('images/tritin.vn/logo.png')}}">
 </div>
 <div id="main_content">
 <div id="menu_tab">
@@ -35,7 +36,7 @@
 <!-- end of menu tab -->
 @include('share.__leftLayout')
 <!-- end of left content -->
-@include('share.__centerLayout')
+@yield("center")
 <!-- end of center content -->
 @include('share.__rightLayout')
 </div>
